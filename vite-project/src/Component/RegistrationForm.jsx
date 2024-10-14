@@ -106,9 +106,7 @@ const RegistrationForm = () => {
                 <p className="text-center text-black mt-4">
                     Already have an account? <Link to="/LoginPage" className="text-blue-500">Sign in</Link>
                 </p>
-                <p className="text-center text-black mt-4">
-                    Check out our <Link to="/ProductPage" className="text-blue-500">Product</Link>
-                </p>
+               
             </div>
         </div>
     );
