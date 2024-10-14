@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text-center{
+   
+    background-color: brown;
+    height: 30px;
+    width: 90px;
+}
